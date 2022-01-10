@@ -5,10 +5,6 @@
 * *Familiar:* C++
 ### Libraries: 
 * Pygame, Numpy, Tweepy, TextBlob
-## Contact Me
-* [LinkedIn](https://www.linkedin.com/in/nishithsoni/)
-* Phone: +1 (848) 218-6574 (Mobile)
-* Email: nishith03@gmail.com
 
 <!--
 **nishithsoni/nishithsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
