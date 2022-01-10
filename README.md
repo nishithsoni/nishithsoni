@@ -2,7 +2,7 @@
 ## Skills
 ### Languages
 * *Proficient:* Python
-* āFamiliar:* C++
+* *Familiar:* C++
 ### Libraries: 
 * Pygame, Numpy, Tweepy, TextBlob
 ## Contact Me
