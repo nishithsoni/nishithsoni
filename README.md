@@ -1,5 +1,5 @@
-## Undergraduate student at the University of Maryland, Baltimore County expected to graduate in May 2025 with a B.S. in Computer Science (Artificial Intelligence/Machine Learning Track).
-# HI
+### Undergraduate student at the University of Maryland, Baltimore County expected to graduate in May 2025 with a B.S. in Computer Science (Artificial Intelligence/Machine Learning Track).
+## HI
 
 <!--
 **nishithsoni/nishithsoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
