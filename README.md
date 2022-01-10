@@ -1,9 +1,9 @@
-### Undergraduate student at the University of Maryland, Baltimore County expected to graduate in May 2025 with a B.S. in Computer Science (Artificial Intelligence/Machine Learning Track).
-### Skills
+# Undergraduate student at the University of Maryland, Baltimore County expected to graduate in May 2025 with a B.S. in Computer Science (Artificial Intelligence/Machine Learning Track).
+# Skills
 ## Languages
-# Proficient: Python
-# Familiar: C++
-# Libraries: Pygame, Numpy, Tweepy, TextBlob
+### Proficient: Python
+### Familiar: C++
+## Libraries: Pygame, Numpy, Tweepy, TextBlob
 
 
 <!--
